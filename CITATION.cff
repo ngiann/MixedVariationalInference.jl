@@ -1,16 +1,1 @@
-TY  - CONF
-TI  - Mixed Variational Inference
-T2  - 2019 International Joint Conference on Neural Networks (IJCNN)
-SP  - 1
-EP  - 8
-AU  - N. Gianniotis
-PY  - 2019
-DO  - 10.1109/IJCNN.2019.8852348
-JO  - 2019 International Joint Conference on Neural Networks (IJCNN)
-IS  - 
-SN  - 2161-4407
-VO  - 
-VL  - 
-JA  - 2019 International Joint Conference on Neural Networks (IJCNN)
-Y1  - 14-19 July 2019
-ER  - 
+N. Gianniotis, "Mixed Variational Inference," 2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary, 2019, pp. 1-8, doi: 10.1109/IJCNN.2019.8852348. keywords: {Covariance matrices;Optimization;Correlation;Bayes methods;Monte Carlo methods;Stochastic processes;Eigenvalues and eigenfunctions;Bayesian inference;variational techniques;Laplace approximation;mean field;Gaussian approximation},
