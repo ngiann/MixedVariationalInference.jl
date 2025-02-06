@@ -1,0 +1,10 @@
+@INPROCEEDINGS{8852348,
+  author={Gianniotis, Nikolaos},
+  booktitle={2019 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Mixed Variational Inference}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Covariance matrices;Optimization;Correlation;Bayes methods;Monte Carlo methods;Stochastic processes;Eigenvalues and eigenfunctions;Bayesian inference;variational techniques;Laplace approximation;mean field;Gaussian approximation},
+  doi={10.1109/IJCNN.2019.8852348}}
