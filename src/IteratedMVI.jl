@@ -1,4 +1,4 @@
-module MixedVariationalInference
+module IteratedMVI
 
     using Distributions
     using ForwardDiff
@@ -24,6 +24,5 @@ module MixedVariationalInference
 
     export diagnostic_logp_gradlogp, elbofy_mvi, getmode_and_eigenvectors, getsolution, grad, numerical_KLD, numparam, optimise, posterior, testelbo, unpack 
     export toyproblem0, toyproblem1, toyproblem2
-
 
 end
